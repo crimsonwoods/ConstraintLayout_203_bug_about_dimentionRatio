@@ -12,8 +12,10 @@ Child view of ConstraintLayout might be empty size in some case.
 4. Set any fixed size (e.g. "100dp") to the child view of "android:layout_height" or "android:layout_width"
 
 # Screenshots
-On "2.0.2":
+- On "2.0.2":
+
 ![ConstraintLayout 2.0.2](./img/correct-width_on_2.0.2.png)
 
-On "2.0.3":
+- On "2.0.3":
+
 ![ConstraintLayout 2.0.3](./img/incorrect-empty-width_on_2.0.3.png)
