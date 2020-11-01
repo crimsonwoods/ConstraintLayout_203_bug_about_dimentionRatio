@@ -2,7 +2,7 @@ Sample project to verify reproducibility about a bug of ConstraintLayout 2.0.3
 ===
 
 # Issue Tracker
-This issue is traking on https://issuetracker.google.com/issues/172048754
+This issue is being traked on https://issuetracker.google.com/issues/172048754
 
 # Summary
 ConstraintLayout 2.0.3 has a bug about `app:layout_constraintDimensionRatio`.
